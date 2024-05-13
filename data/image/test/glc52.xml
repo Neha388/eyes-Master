@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>glc52.jpg</filename>
+	<path>C:\Users\Nisa\Desktop\Glaucoma Images\test\glc52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>311</ymin>
+			<xmax>678</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>288</ymin>
+			<xmax>717</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
