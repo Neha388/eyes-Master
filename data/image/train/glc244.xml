@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>glc244.jpg</filename>
+	<path>C:\Users\Nisa\Desktop\Glaucoma Images\train\glc244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>243</ymin>
+			<xmax>439</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>214</ymin>
+			<xmax>464</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
