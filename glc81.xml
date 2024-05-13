@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>glc81.jpg</filename>
+	<path>C:\Users\Nisa\Desktop\Glaucoma Images\train\glc81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>217</ymin>
+			<xmax>683</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>192</ymin>
+			<xmax>714</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>
