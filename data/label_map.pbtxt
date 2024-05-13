@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'Cup Disc'
+}
+
+item {
+    id: 2
+    name: 'Optic Cup'
+}
+
+item {
+    id: 3
+    name: 'Optic Disc'
+}
