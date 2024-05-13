@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Glaucoma Images</folder>
+	<filename>glc01.jpg</filename>
+	<path>C:\Users\Nisa\Desktop\Glaucoma Images\glc01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>234</ymin>
+			<xmax>692</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
