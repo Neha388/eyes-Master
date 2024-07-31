@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>BEH-95.jpg</filename>
+	<path>C:\Users\Taha\Desktop\Dataset\BEH-95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>250</ymin>
+			<xmax>421</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>240</ymin>
+			<xmax>447</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
