@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>1ffa963a-8d87-11e8-9daf-6045cb817f5b..jpg</filename>
+	<path>C:\Users\Taha\Desktop\Dataset\1ffa963a-8d87-11e8-9daf-6045cb817f5b..jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3152</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2511</xmin>
+			<ymin>1312</ymin>
+			<xmax>2654</xmax>
+			<ymax>1460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2392</xmin>
+			<ymin>1163</ymin>
+			<xmax>2799</xmax>
+			<ymax>1587</ymax>
+		</bndbox>
+	</object>
+</annotation>
