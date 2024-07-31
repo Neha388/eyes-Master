@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>EyePACS-Glaucoma-1906.jpg</filename>
+	<path>C:\Users\Taha\Desktop\Dataset\EyePACS-Glaucoma-1906.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Optic Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>190</ymin>
+			<xmax>390</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Optic Disc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>176</ymin>
+			<xmax>410</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>
